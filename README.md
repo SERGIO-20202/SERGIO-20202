@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**SERGIO-20202/SERGIO-20252** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SERGIO HENRIQUE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
